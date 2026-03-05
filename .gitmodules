@@ -1,0 +1,34 @@
+[submodule "legacy/hamlib"]
+	path = legacy/hamlib
+	url = https://github.com/WhiteFoxSB/hamlib-ref03_26.git
+[submodule "legacy/libusb"]
+	path = legacy/libusb
+	url = https://github.com/WhiteFoxSB/libusb-ref03_26.git
+[submodule "legacy/liquid-dsp"]
+	path = legacy/liquid-dsp
+	url = https://github.com/WhiteFoxSB/liquid-dsp-ref03_26.git
+[submodule "legacy/gpredict"]
+	path = legacy/gpredict
+	url = https://github.com/WhiteFoxSB/gpredict-ref03_26.git
+[submodule "legacy/pat"]
+	path = legacy/pat
+	url = https://github.com/WhiteFoxSB/pat-ref03_26.git
+[submodule "legacy/direwolf"]
+	path = legacy/direwolf
+	url = https://github.com/WhiteFoxSB/direwolf-ref03_26.git
+[submodule "legacy/SoapySDR"]
+	path = legacy/SoapySDR
+	url = https://github.com/WhiteFoxSB/SoapySDR-ref03_26.git
+[submodule "legacy/ardop"]
+	path = legacy/ardop
+	url = https://github.com/WhiteFoxSB/ardop-ref03_26.git
+[submodule "legacy/codec2"]
+	path = legacy/codec2
+	url = https://github.com/WhiteFoxSB/codec2-ref03_26.git
+[submodule "legacy/fldigi"]
+	path = legacy/fldigi
+	url = https://github.com/WhiteFoxSB/fldigi-ref03_26.git
+[submodule "legacy/wsjtx"]
+	path = legacy/wsjtx
+	url = https://github.com/WhiteFoxSB/wsjtx-ref03_26.git
+	branch = orf-baseline
