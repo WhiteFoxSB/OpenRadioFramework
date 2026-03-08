@@ -1,0 +1,59 @@
+site_name: OpenRadioFramework
+site_description: A modern, unified C++23 framework for digital radio signal processing, hardware abstraction, and protocol decoding.
+site_url: https://whitefoxsb.github.io/OpenRadioFramework/
+repo_url: https://github.com/WhiteFoxSB/OpenRadioFramework
+repo_name: WhiteFoxSB/OpenRadioFramework
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Architecture:
+      - Overview: architecture/overview.md
+      - MicroAPI Specification: architecture/microapi.md
+      - Hardware Abstraction: architecture/hal.md
+      - Concurrency Model: architecture/concurrency.md
+  - TSRP: tsrp.md
+  - Modules:
+      - orf-hal: modules/orf-hal.md
+      - orf-rig: modules/orf-rig.md
+      - orf-modem: modules/orf-modem.md
+      - orf-dsp: modules/orf-dsp.md
+  - API Reference: api/index.md
+  - Contributing: contributing.md
+  - License: license.md
