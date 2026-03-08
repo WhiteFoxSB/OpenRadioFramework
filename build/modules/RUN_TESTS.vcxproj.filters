@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alist\OpenRadioFramework\build\CMakeFiles\7a009a2a5d85e30344e3ef65b9d26861\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{066EED8F-1D1D-33A3-9197-52C7B056EC0C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

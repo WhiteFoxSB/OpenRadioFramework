@@ -1,0 +1,4 @@
+C:/Users/alist/OpenRadioFramework/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/alist/OpenRadioFramework/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/alist/OpenRadioFramework/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/alist/OpenRadioFramework/build/modules/CMakeFiles/RUN_TESTS.dir
